@@ -10,7 +10,7 @@ In today’s world, websites have to deal with toxic and divisive content. Espec
 
 
 # Details
-A break down of the code and a run through of the methodology used are available in the following [blog]().
+A break down of the code and a run through of the methodology used are available in the following [blog](http://datasciencediscovery.com/coders_corner/NLP-ML.html).
 
 
 *Code:* 
