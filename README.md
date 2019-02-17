@@ -11,6 +11,8 @@ In today’s world, websites have to deal with toxic and divisive content. Espec
 
 # Details
 A break down of the code and a run through of the methodology used are available in the following [blog]().
+
+
 *Code:* 
 + quora-nlp-data-exploration: Contains the code regarding the data exploration and some visualizations.
 + quora-nlp-text-classification-v1: Contains all the steps involved from text cleaning to feature generation and model selection/evaluation. 
