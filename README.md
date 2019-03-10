@@ -10,12 +10,12 @@ In today’s world, websites have to deal with toxic and divisive content. Espec
 
 
 # Details
-A break down of the code and a run through of the methodology used are available in the following [blog](http://datasciencediscovery.com/coders_corner/NLP-ML.html).
+A break down of the code and a run through of the methodology used are available in the following [blog](http://datasciencediscovery.com/coders_corner).
 
 
 *Code:* 
 + quora-nlp-data-exploration: Contains the code regarding the data exploration and some visualizations.
-+ quora-nlp-text-classification-v1: Contains all the steps involved from text cleaning to feature generation and model selection/evaluation. 
++ quora-nlp-text-classification-v1: Contains all the steps involved from text cleaning to feature generation and model selection/evaluation. The details have been described in the following [link](http://datasciencediscovery.com/coders_corner/NLP-ML.html). 
 + quora-nlp-text-classification-DL: Contains a deep learning approach to solve the text classification problem. More details are available in the following [link](http://datasciencediscovery.com/coders_corner/Text-Classification-DL.html).
 
 ## About Us
