@@ -16,6 +16,7 @@ A break down of the code and a run through of the methodology used are available
 *Code:* 
 + quora-nlp-data-exploration: Contains the code regarding the data exploration and some visualizations.
 + quora-nlp-text-classification-v1: Contains all the steps involved from text cleaning to feature generation and model selection/evaluation. 
++ quora-nlp-text-classification-DL: Contains a deep learning approach to solve the text classification problem. More details are available in the following [link](http://datasciencediscovery.com/coders_corner/Text-Classification-DL.html).
 
 ## About Us
 Data science discovery is a step on the path of your data science journey. Please follow us on [LinkedIn](https://www.linkedin.com/company/data-science-discovery/) to stay updated.
